@@ -1,0 +1,21 @@
+{
+  "name": "elixir-by-example",
+  "version": "0.0.1",
+  "description": "Learn Elixir with examples",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:stevedomin/elixir-by-example.git"
+  },
+  "keywords": [
+    "elixir"
+  ],
+  "author": "Steve Domin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevedomin/elixir-by-example/issues"
+  },
+  "homepage": "https://github.com/stevedomin/elixir-by-example#readme",
+  "dependencies": {
+    "gitbook-cli": "~0.3.4"
+  }
+}
